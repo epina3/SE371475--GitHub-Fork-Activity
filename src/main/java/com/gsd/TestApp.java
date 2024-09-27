@@ -12,6 +12,7 @@ public class TestApp {
         System.out.println("Name: Viviana Flores");
 
         System.out.println("Name: Ali Azfar");
+		System.out.println("Name: Edith Pina");
 
     }
 }
